@@ -1,0 +1,266 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Pixel for WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-18 08:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:37
+msgid "\"View content\" and \"Purchase\" parameters are compiled automatically"
+msgstr ""
+
+#: ns-admin-options/inc.php:24
+msgid "- Dynamic events \"Purchase\" <b>NEW!</b><br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:23
+msgid "- Dynamic events in all products <b>NEW!</b><br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:25
+msgid "- Facebook pixel code in Cart<br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:26
+msgid "- Facebook pixel code in Checkout<br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:27
+msgid "- Facebook pixel code in Page<br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:28
+msgid "- More..."
+msgstr ""
+
+#: ns-admin-options/inc.php:22
+msgid "- Standard event \"Purchase\" <b>NEW!</b><br/>"
+msgstr ""
+
+#: ns-admin-options/inc.php:21
+msgid "- Standard event \"View content\" <b>NEW!</b><br/>"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:55
+msgid "...choose"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:39
+msgid "add a single Facebook Pixel inside only one page"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:38
+msgid "add different Facebook Pixel code for any page"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:35
+msgid "add event \"Purchase\""
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:34
+msgid "add event \"View content\""
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:36
+msgid "add event in every single product"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:19
+msgid "ADV 728×90 ready"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and:"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "Bootstrap v.3.3.7"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:47
+msgid "Choose a specific user Role to exclude from pixel"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "Contact form ready to use"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:12
+msgid "Copy and paste your Facebook Pixel base code here:"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:25
+msgid "DISCOVER MORE"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_newsletter.php:14
+msgid "email address"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:45
+msgid "Exclude Pixel for a specified user Role"
+msgstr ""
+
+#: ns-admin-options/inc.php:5 ns-admin-options/ns-admin-options-setup.php:9
+#: ns-admin-options/ns-admin-options-setup.php:9
+msgid "Facebook Pixel"
+msgstr ""
+
+#. Name of the plugin
+msgid "Facebook Pixel for WP"
+msgstr ""
+
+#: ns-admin-options/inc.php:8
+msgid "Facebook Pixel full"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:15
+msgid "Facebook Pixel Helper"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:11
+msgid "Facebook Pixel Implementation Guide"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "FontAwesome icons"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "Frequent Updates"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:21
+msgid "Full Support"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:10
+msgid "Generate your Facebook Pixel base code"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:48
+msgid "Get Premium Now"
+msgstr ""
+
+#: ns-admin-options/ns-admin-options-setup.php:10
+msgid "How to install premium version"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.nsthemes.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ns-facebook-pixel-for-wp/"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:44
+msgid ""
+"If you upgrade your plugin you will get one year of free updates and "
+"support\n"
+"\t\t\t\tthrough our website available 24h/24h. Upgrade and you'll have the "
+"advantage\n"
+"\t\t\t\tof additional features of the premium version."
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:18
+msgid "Mailchimp ready"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "MISTER CORPORATE FREE THEME"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "Movement effects thanks to ScrollReveal"
+msgstr ""
+
+#. Author of the plugin
+msgid "NsThemes"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:32
+msgid "Premium features:"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr ""
+
+#: ns-facebook-pixel-for-wp.php:70
+msgid "Premium Version"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "Responsive design"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:53
+msgid "Settings"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:20
+msgid "Show or Hide Pixel for logged user"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_newsletter.php:13
+msgid "STAY TUNED!"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_newsletter.php:8
+msgid "SUBSCRIBE TO OUR NEWSLETTER"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_newsletter.php:18
+msgid "SUBSCRIBE!"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_newsletter.php:13
+msgid "Thanks to use our plugin! Submit your email to keep in touch!"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin add facebook pixel script into header"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:43
+msgid "Upgrade or get support:"
+msgstr ""
+
+#: ns-admin-options/ns_admin_option_dashboard.php:30
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_pro_version.php:14
+msgid "UPGRADE!"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "Very simple code"
+msgstr ""
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:22
+msgid "Well documented and well commented"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:15
+msgid "You can check that your pixel work properly using"
+msgstr ""
+
+#: ns-admin-options/ns_settings_custom.php:22
+msgid ""
+"You can choose if activate or not Facebook Pixel when a user is logged in"
+msgstr ""
